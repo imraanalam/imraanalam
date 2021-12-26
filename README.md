@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me on my <a href="https://applewp.com/">Portfolio</a>
+- 📫 Reach me on my <a href="https://imraanalam.com/">Portfolio</a>
 
 <!---
 imraanalam/imraanalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
