@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @imraanalam
 - 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on my <a href="https://imraanalam.com/">Portfolio</a>
 
